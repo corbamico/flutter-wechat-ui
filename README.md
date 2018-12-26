@@ -4,13 +4,13 @@ Flutter Demo Project, Demo UI 模仿微信界面
 
 ## Screen Shot
 
-[](doc/assets/flutter_01.png)
-[](doc/assets/flutter_02.png)
-[](doc/assets/flutter_03.png)
-[](doc/assets/flutter_04.png)
-[](doc/assets/flutter_05.png)
-[](doc/assets/flutter_06.png)
-[](doc/assets/flutter_07.png)
+<img height="480px" src="doc/assets/flutter_01.png"/>
+<img height="480px" src="doc/assets/flutter_02.png"/>
+<img height="480px" src="doc/assets/flutter_03.png"/>
+<img height="480px" src="doc/assets/flutter_04.png"/>
+<img height="480px" src="doc/assets/flutter_05.png"/>
+<img height="480px" src="doc/assets/flutter_06.png"/>
+<img height="480px" src="doc/assets/flutter_07.png"/>
 
 
 ## License
